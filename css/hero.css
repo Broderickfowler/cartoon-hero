@@ -1,0 +1,67 @@
+html, body{
+	font-family: sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #b30000;
+	padding: 40px;
+	text-align: center;
+	text-shadow: 0 20px 20px black;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 200px;
+	width: 300px;
+	border:24px solid #ff8000;
+	box-shadow: 0 10px 20px black;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 10px;
+	background-color: grey;
+}
+
+img.pixel-image{
+	max-width:100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: darkred;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+a{
+	color: red;
+	text-decoration: none;;
+}
+ul li{
+	text-align: center;
+}
+
+
+footer p{
+	text-align: center;
+	color: crimson;
+}
+
+
+
+/*<header>
+		<img src="img/profile.jpg">
+		<h1> Natsu Dragneel</h1>
+	</header>*/
